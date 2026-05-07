@@ -50,3 +50,9 @@ img, [data-test="image-container"], .image-container {
 button {
     border-radius: 32px !important;
 }
+
+
+* {
+    backdrop-filter: none !important;
+    filter: none !important;
+}
